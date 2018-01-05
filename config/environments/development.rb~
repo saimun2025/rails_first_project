@@ -7,7 +7,7 @@ Rails.application.configure do
   port: 587,
   domain: "domain.of.sender.net",
   authentication: "plain",
-  user_name: "dave",
+  user_name: "saimun",
   password: "secret",
   enable_starttls_auto: true
   
